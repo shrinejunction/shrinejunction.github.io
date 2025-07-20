@@ -1,0 +1,68 @@
+{
+  "format": "particle",
+  "title": "Shrine Junction",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "*NVR KNOWS BEST*",
+      "style": {
+        "text-align": "center",
+        "margin-bottom": 30
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Hello Extremely!*\nim making this page just to say i made something! i might have a buncha stray ideas for things that might be neat to put here, so let's see where that leads!"
+    },
+\\"Stick around it gets better" reel"
+	{
+      "type": "button",
+      "label": "an important reminder",
+      "action": "/FLCL"
+    },
+	{
+      "type": "button",
+      "label": "Go to the duck file",
+      "action": "/pond/duck"
+    },
+	{
+		"type": "separator",
+	},
+\\junestrings itchio qrcode and zines (possibly move this to its own page) 
+    {
+		"type": "paragraph",
+		"text": "These zines belong to June, used with her permission\nscan this and support her on itch!"
+    },
+	{
+		"type": "image",
+		"width": 37,
+		"height": 37,
+		"pixels": "yl yl yl yl dGbBbAbAaBbGd dAeAcBaCfAeAd dAaCaAcAaBbBbAaAaCaAd dAaCaAbAcCbCaAaCaAd dAaCaAbAbCaCcAaCaAd dAeAaBaAaBdAbAeAd dGaAaAaAaAaAaAaAaGd mAdAbAo dAbAaBaCaAbAbBaAaAi fAaAcAaBbBdAaAbAbAd dBbAaAcBdBaBbEe dAbAdCcBfBbBe dAaBaBbCdBaDbAaBd fDdAaAbAcAm dAaAbBaBaBbDaDaDd fAbAbBaAaBaCbAbBaAe dAaBbAdAaEaAaAeAe eBeAaAaAbAaAdBaAbAd dAaAaAaBaBaBcAdCbBd fAaAcFaGeBd dAaIaAaAaAaAaEaAf lBcAaBbBcAaCd dGdEaAbAaAaAbAe dAeAaAaAbAbAaAaAcDe dAaCaAbBcBbAaEbAe dAaCaAaAaAaEcAaAaCaAd dAaCaAdAbAdBcCaAd dAeAcAaAaBcFbAe dGaEgBcAaAe yl yl yl yl",
+		"style": {
+		"scale": 3
+		}
+	},
+	{
+		"type": "paragraph",
+		"text": "(give earthtongue a look, great game)"
+    },
+	{
+		"type": "button",
+		"label": "Cracked Mirror Television",
+		"action": "/zines/cracked"
+	},
+	{
+		"type": "button",
+		"label": "WINTER",
+		"action": "/zines/WINTER"
+	},
+	{
+		"type": "button",
+		"label": "sweetpetal",
+		"action": "/zines/petal"
+	},
+	{
+		"type": "separator",
+	},
+	
+}
