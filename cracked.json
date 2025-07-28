@@ -39,7 +39,7 @@
 		},
 		
 		{
-			"type": "button"
+			"type": "button",
 			"text": "Back",
 			"action": "/zines"
 		}

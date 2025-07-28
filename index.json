@@ -25,7 +25,7 @@
       "action": "/pond/duck"
     },
 	{
-		"type": "separator",
+		"type": "separator"
 	},
    	{
    	"type": "button",
