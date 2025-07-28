@@ -18,17 +18,17 @@
 		{
 			"type": "button",
 			"label": "Cracked Mirror Television",
-			"action": "/zines/cracked"
+			"action": "/cracked"
 		},
 		{
 			"type": "button",
 			"label": "WINTER",
-			"action": "/zines/WINTER"
+			"action": "/WINTER"
 		},
 		{
 			"type": "button",
 			"label": "sweetpetal",
-			"action": "/zines/petal"
+			"action": "/petal"
 		}
 	]
 }
