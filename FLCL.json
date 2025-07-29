@@ -14,6 +14,7 @@
 			],
 			"frame-duration": 60,
 		"style": {
+			"scale":1
 			"margin-top":0,
 			"margin-bottom":0
 		}
