@@ -12,11 +12,11 @@
     },
     {
       "type": "paragraph",
-      "text": "Hello Extremely!*\nim making this page just to say i made something! i might have a buncha stray ideas for things that might be neat to put here, so let's see where that leads!"
+      "text": "im aspen!\nim making this page just to say i made something! let's see where that leads..."
     },
 	{
       "type": "button",
-      "label": "an important reminder",
+      "label": "a reminder to self",
       "action": "/FLCL"
     },
 	{
