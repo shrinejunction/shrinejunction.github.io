@@ -4,7 +4,11 @@
 	"content": [
 		{
 			"type": "paragraph",
-			"text": "These zines belong to June, used with her permission\nscan this and support her on itch!"
+			"text": "This is a small collection of some zines by my friend June, converted to 'PDVision' with Her permission\nScan this and support her on itch!",
+			"style": {
+				"text-align": "center",
+				"margin-bottom": 5
+			}
 		},
 		{
 			"type": "image",
@@ -12,7 +16,8 @@
 			"height": 37,
 			"pixels": "yl yl yl yl dGbBbAbAaBbGd dAeAcBaCfAeAd dAaCaAcAaBbBbAaAaCaAd dAaCaAbAcCbCaAaCaAd dAaCaAbAbCaCcAaCaAd dAeAaBaAaBdAbAeAd dGaAaAaAaAaAaAaAaGd mAdAbAo dAbAaBaCaAbAbBaAaAi fAaAcAaBbBdAaAbAbAd dBbAaAcBdBaBbEe dAbAdCcBfBbBe dAaBaBbCdBaDbAaBd fDdAaAbAcAm dAaAbBaBaBbDaDaDd fAbAbBaAaBaCbAbBaAe dAaBbAdAaEaAaAeAe eBeAaAaAbAaAdBaAbAd dAaAaAaBaBaBcAdCbBd fAaAcFaGeBd dAaIaAaAaAaAaEaAf lBcAaBbBcAaCd dGdEaAbAaAaAbAe dAeAaAaAbAbAaAaAcDe dAaCaAbBcBbAaEbAe dAaCaAaAaAaEcAaAaCaAd dAaCaAdAbAdBcCaAd dAeAcAaAaBcFbAe dGaEgBcAaAe yl yl yl yl",
 			"style": {
-			"scale": 3
+			"scale": 3,
+			"margin-top": 5
 			}
 		},
 		{
@@ -29,6 +34,14 @@
 			"type": "button",
 			"label": "sweetpetal",
 			"action": "/petal"
+		},
+		{
+			"type": "separator"
+		},
+		{
+			"type": "button",
+			"label": "Return",
+			"action": "/index"
 		}
 	]
 }
