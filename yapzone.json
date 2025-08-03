@@ -1,0 +1,31 @@
+{
+	"format": "particle",
+	"title": "THE YAP ZONE",
+	"content": [
+	{
+		"type": "paragraph",
+		"text": "*For a plush with fluff-for-brains, I sure do have a lotta thoughts!*",
+		"style":{
+			"text-align": "center"
+		}
+	},
+	{
+		"type": "button",
+		"label": "'media consumption'",
+		"action": "/haze"
+	},
+	{
+		"type": "button",
+		"label": "Stray thoughts",
+		"action": "/strays"
+	},
+	{
+		"type": "separator"
+	},
+	{
+		"type": "button",
+		"label": "That's enough yappin'",
+		"action": "/index"
+	}
+	]
+}

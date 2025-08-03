@@ -1,0 +1,39 @@
+{
+	"format": "particle",
+	"title": "PlushLore",
+	"content": [
+	{
+		"type": "paragraph",
+		"text": "One button down.. who knows how many are left to click on!\nThis first one has some info about me!",
+		"style": {
+			"text-align": "center"
+		}
+	},
+	{
+		"type": "blockquote",
+		"text": "I'm Aspen! I like to go by other tree names too, feel free to pick your favorite!\nI don't really see myself as a person, though what I see myself as seems to change frequently.. it's usually a bizarre combination of [tree/mold] and/or [plush/dog/clown]? Ahhh y'kno how it goes. All that is to say that I prefer to go by it/its >w<\nI like splashing around in the river, taking pictures of nature, puzzles, art with complex themes that I don't fully understand sometimes, and mashing buttons in niche indie fighting games!\n\nhonestly idk what im doin writing this bio i dont rly type with that kinda punctuation or anything lmao the real tl;dr is that im on that otherkin/therian bulllllshit so if u fw that i fw u"
+	},
+	{
+		"type": "paragraph",
+		"text": "Do you dare to seek more?\nDo you wish to speak directly to the plush?",
+		"style":{
+			"margin-bottom": 1
+		}
+	},
+	{
+		"type": "list",
+		"items": [
+			"*bsky:* @plushwitch.bsky.social",
+			"*discord:* plush__witch"
+			]
+	},
+	{
+			"type": "separator"
+	},
+	{
+		"type": "button",
+		"label": "Continue exploring",
+		"action": "/index"
+	}
+	]
+}
