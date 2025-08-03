@@ -3,6 +3,71 @@
   "title": "Shrine Junction",
   "content": [
     {
+		"type": "paragraph",
+		"text": "*NVR KNOWS BEST*\nwelcome to my page with buttons galore!\ni've never made a site before, but i felt like trying somethign silly as a way to leave my mark in this tiny corner of the world ^w^\nit's been fun to work on so far!",
+		"style": {
+			"text-align": "center",
+			"margin-bottom": 30
+      }
+    },
+	{
+		"type": "button",
+		"pre-label": "anyways..",
+		"label": "The Lore",
+		"action": "/plushlore"
+    },
+	{"type": "reel",
+		"width": 200,
+		"height": 29,
+		"frames": [
+		"yyyyyyyy kGuGvGvFvGvFvGk hNoNnNoNnNoNnNg fEfFlEfFkEfFlEfFkEfGkEfFkEfFf fChAbDjChBbCkChBaDjCiAbDjChBaDjDhAbDjChAbDe dBjAfAiBjAeAjBjAeAiBjAeBiBjAeAiBjAfAhBjAfAe dGeBeBgBaDfAeCgBaDfAeBhAaDfAeCgBaDfAeBhFfAfBgGeBeBd cBaAcAfBcDeBaBcAeBcEeBaAcAfBcDeBaBcAfAdDeBaAcAfBcDfAbAcAfBcDeBaAcAfBcDc bBaAeAfDcBdDeAfDbBdBaAeAfDcBdDeAfDbBdDeBfCcBdDeAfDbBdBaAeAfDcBb bAaBeAmBcDfAmAdAaBeAmBcBaAfAmAdDeBlBcBaBeAmBcAaBeAmBb bAaBeAmBcBaAfAmAdAaBeAmBcBaAfAmAdAaBeBlBcBaBeAmBcAaBeAmBb aBaDcAiGbBaCcBiEcBaDcAiGbBaCdAiEcBaDcBiFbBaDcAiFbBaDcAiGa aBbCbAjCbBbAbDbAiCfBbDaAjCbBbAbDbAiDeBbDbAiCcAbAbDbAiDeBbCbAjCbBa aBcDfEeBbAcEeFhBcEeEeBbAdDeFhBcEeEfAbAdDeFhBcDfEeBa aBjEhBbAjFkBjFgBbAkEkBjFhAbAkFjBjEhBa aBgFjBbAhEnBhEjBbAhFmBhEkAbAhFmBgFjBa aBdDoBbAeFpBeCoBbAeFpBeCpAbAeFpBdDoBa aBcDpBbAcEsBcDpBbBbEsBcEpAbBcErBcDpBa aCuBcCcCsCuBcCcCtBuBcCcDrCuBb bBuBcCfHlBuBcCfHlCtBcCfIkBuBb bCtBcCiElCtBcDhElCtBcDiEkCtBb cCsAeDlHeCsAeDlHeCsAfClHeCsAc cDqBeEnEeDqBeEnEeDqBfDoDeDqBc dEnBgEoBgEnBhEnBgEnBhEnBgEnBd dIgDiHhCjHgDiIgDiHgDiIgDhIgDe fQkRkQkRkRjRkQf fPmPlPmPmOmPlPg hLqLpMpLpMpLpLi kGuGvGuGvGvFvGk",
+		"yyyyyyyy kGvGuGvGvFvGvFk hOnNoNnNoNnNoNf gEfFkEfFlEfFkEfFlEfFkEfGkEfFe fChBaDkChAbDjChBbCkChBaDjCiAbDjChBaDjDhAbDd eBjAeAiBjAfAiBjAeAjBjAeAiBjAeBiBjAeAiBjAfAd dBaDfAeBhGeBeBgBaDfAeCgBaDfAeBhAaDfAeCgBaDfAeBhFfAfBc cBaBcAeBcEeBaAcAfBcDeBaBcAeBcEeBaAcAfBcDeBaBcAfAdDeBaAcAfBcDfAbAcAfBcDb cCeBfCcBdBaAeAfDcBdDeAfDbBdBaAeAfDcBdDeAfDbBdDeBfCcBdDeAfDbBb bDeBmAdAaBeAmBcDfAmAdAaBeAmBcBaAfAmAdDeBlBcBaBeAmBa bDeBmAdAaBeAmBcBaAfAmAdAaBeAmBcBaAfAmAdAaBeBlBcBaBeAmBa aGcBiEcBaDcAiGbBaCcBiEcBaDcAiGbBaCdAiEcBaDcBiFbBaDcAiFa aBbDbAiCfBbCbAjCbBbAbDbAiCfBbDaAjCbBbAbDbAiDeBbDbAiCcAbAbDbAiDd aBcEeFhBcDfEeBbAcEeFhBcEeEeBbAdDeFhBcEeEfAbAdDeFg aBjFkBjEhBbAjFkBjFgBbAkEkBjFhAbAkFi aBhEnBgFjBbAhEnBhEjBbAhFmBhEkAbAhFl aBeFpBdDoBbAeFpBeCoBbAeFpBeCpAbAeFo aBcEsBcDpBbAcEsBcDpBbBbEsBcEpAbBcEq bCcCsCuBcCcCtBuBcCcCtBuBcCcDq bCfHlBuBcCfHlBuBcCfHlCtBcCfIi bCiElCtBcCiElCtBcDhElCtBcDiEi cCmGfCsAeDlHeCsAeDlHeCsAfClHb cDoEeDqBeEnEeDqBeEnEeDqBfDoDb dEoAhEnBgEoBgEnBhEnBgEnBhEnBc eHhCiIgDiHhCjHgDiIgDiHgDiIgDd fRkQkRkQkRkRjRe gPlPmPlPmPmOmPf iLpLqLpMpLpMpLh kGvGuGvGuGvGvFk"		
+		],
+		"frame-duration": 15,
+		"style": {
+			"scale": 1,
+			"margin-top": 40,
+			"margin-bottom": 5
+		}
+	},
+	{
+		"type": "button",
+		"label": "THE YAP ZONE",
+		"action": "/yapzone"
+	},
+	{"type": "reel",
+		"width": 200,
+		"height": 29,
+		"frames": [
+		"yyyyyyyy kGuGvGvFvGvFvGk hNoNnNoNnNoNnNg fEfFlEfFkEfFlEfFkEfGkEfFkEfFf fChAbDjChBbCkChBaDjCiAbDjChBaDjDhAbDjChAbDe dBjAfAiBjAeAjBjAeAiBjAeBiBjAeAiBjAfAhBjAfAe dGeBeBgBaDfAeCgBaDfAeBhAaDfAeCgBaDfAeBhFfAfBgGeBeBd cBaAcAfBcDeBaBcAeBcEeBaAcAfBcDeBaBcAfAdDeBaAcAfBcDfAbAcAfBcDeBaAcAfBcDc bBaAeAfDcBdDeAfDbBdBaAeAfDcBdDeAfDbBdDeBfCcBdDeAfDbBdBaAeAfDcBb bAaBeAmBcDfAmAdAaBeAmBcBaAfAmAdDeBlBcBaBeAmBcAaBeAmBb bAaBeAmBcBaAfAmAdAaBeAmBcBaAfAmAdAaBeBlBcBaBeAmBcAaBeAmBb aBaDcAiGbBaCcBiEcBaDcAiGbBaCdAiEcBaDcBiFbBaDcAiFbBaDcAiGa aBbCbAjCbBbAbDbAiCfBbDaAjCbBbAbDbAiDeBbDbAiCcAbAbDbAiDeBbCbAjCbBa aBcDfEeBbAcEeFhBcEeEeBbAdDeFhBcEeEfAbAdDeFhBcDfEeBa aBjEhBbAjFkBjFgBbAkEkBjFhAbAkFjBjEhBa aBgFjBbAhEnBhEjBbAhFmBhEkAbAhFmBgFjBa aBdDoBbAeFpBeCoBbAeFpBeCpAbAeFpBdDoBa aBcDpBbAcEsBcDpBbBbEsBcEpAbBcErBcDpBa aCuBcCcCsCuBcCcCtBuBcCcDrCuBb bBuBcCfHlBuBcCfHlCtBcCfIkBuBb bCtBcCiElCtBcDhElCtBcDiEkCtBb cCsAeDlHeCsAeDlHeCsAfClHeCsAc cDqBeEnEeDqBeEnEeDqBfDoDeDqBc dEnBgEoBgEnBhEnBgEnBhEnBgEnBd dIgDiHhCjHgDiIgDiHgDiIgDhIgDe fQkRkQkRkRjRkQf fPmPlPmPmOmPlPg hLqLpMpLpMpLpLi kGuGvGuGvGvFvGk",
+		"yyyyyyyy kGvGuGvGvFvGvFk hOnNoNnNoNnNoNf gEfFkEfFlEfFkEfFlEfFkEfGkEfFe fChBaDkChAbDjChBbCkChBaDjCiAbDjChBaDjDhAbDd eBjAeAiBjAfAiBjAeAjBjAeAiBjAeBiBjAeAiBjAfAd dBaDfAeBhGeBeBgBaDfAeCgBaDfAeBhAaDfAeCgBaDfAeBhFfAfBc cBaBcAeBcEeBaAcAfBcDeBaBcAeBcEeBaAcAfBcDeBaBcAfAdDeBaAcAfBcDfAbAcAfBcDb cCeBfCcBdBaAeAfDcBdDeAfDbBdBaAeAfDcBdDeAfDbBdDeBfCcBdDeAfDbBb bDeBmAdAaBeAmBcDfAmAdAaBeAmBcBaAfAmAdDeBlBcBaBeAmBa bDeBmAdAaBeAmBcBaAfAmAdAaBeAmBcBaAfAmAdAaBeBlBcBaBeAmBa aGcBiEcBaDcAiGbBaCcBiEcBaDcAiGbBaCdAiEcBaDcBiFbBaDcAiFa aBbDbAiCfBbCbAjCbBbAbDbAiCfBbDaAjCbBbAbDbAiDeBbDbAiCcAbAbDbAiDd aBcEeFhBcDfEeBbAcEeFhBcEeEeBbAdDeFhBcEeEfAbAdDeFg aBjFkBjEhBbAjFkBjFgBbAkEkBjFhAbAkFi aBhEnBgFjBbAhEnBhEjBbAhFmBhEkAbAhFl aBeFpBdDoBbAeFpBeCoBbAeFpBeCpAbAeFo aBcEsBcDpBbAcEsBcDpBbBbEsBcEpAbBcEq bCcCsCuBcCcCtBuBcCcCtBuBcCcDq bCfHlBuBcCfHlBuBcCfHlCtBcCfIi bCiElCtBcCiElCtBcDhElCtBcDiEi cCmGfCsAeDlHeCsAeDlHeCsAfClHb cDoEeDqBeEnEeDqBeEnEeDqBfDoDb dEoAhEnBgEoBgEnBhEnBgEnBhEnBc eHhCiIgDiHhCjHgDiIgDiHgDiIgDd fRkQkRkQkRkRjRe gPlPmPlPmPmOmPf iLpLqLpMpLpMpLh kGvGuGvGuGvGvFk"
+		],
+		"frame-duration": 15,
+		"style": {
+			"scale": 1,
+			"margin-top": 5,
+			"margin-bottom": 40
+		}
+	},
+   	{
+		"type": "button",
+		"pre-label": "JuneString's",
+		"label": "JuneZines",
+		"action": "/zines"
+   	},
+	{
+		"type": "button",
+		"label": "a reminder to self",
+		"action": "/FLCL"
+    }
+	]
+	
+}
+{
+  "format": "particle",
+  "title": "Shrine Junction",
+  "content": [
+    {
       "type": "paragraph",
       "text": "*NVR KNOWS BEST*",
       "style": {
