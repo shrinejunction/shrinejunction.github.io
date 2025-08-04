@@ -11,8 +11,13 @@
 	},
 	{
 		"type": "button",
-		"label": "'media consumption'",
+		"label": "Jet Set Radio",
 		"action": "/haze"
+	},
+	{
+		"type": "button",
+		"label": "Proclamation 4071",
+		"action": "/proc4071"
 	},
 	{
 		"type": "button",

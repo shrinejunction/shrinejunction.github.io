@@ -1,0 +1,35 @@
+{
+	"format": "particle",
+	"title": "Jet Set Radio and it's impact",
+	"content": [
+	{
+		"type": "paragraph",
+		"text": "not extensive of course, just a few thoughts ^w^",
+		"style":{
+			"text-align": "center"
+		}
+	},
+	{
+		"type": "paragraph",
+		"text": "Jet Set Radio is a rly stylish Sega Dreamcast game featuring a sick soundtrack. i dont think it's the _first_ game to do it, but it's vivid colors and cel shaded style has been a huge influence on artists of many kinds, including musicians and gamedevs!\nA few of my favorite albums and games that take inspiration:"
+	},
+	{
+		"type": "list",
+		"items": [
+			"*Team Reptile - Bomb Rush Cyberfunk*- kinda definitively _the_ 'spiritual successor' to JSR. it's more JSR than the new JSR that's coming out. u gotta check  it out",
+			"*2 Mello - Memories of Tokyo-to + Tokyo-to Future*- tribute albums to JSR and JSR Future that got me into 2 Mello's work. super talented musician, honestly check out his whole discography on bandcamp!",
+			"*terrivellmann - SLUDGE LIFE*- tbh the only connection between these two is like . graffiti. so it might not rly be inspired by. but it's still a cool game!",
+			"*Hayd__N - Jamphibian*- idk if this is ever gonna come out and i havent seen any updates in ages but this porject by hayd__n is definitely worth keeping an eye on!",
+			"*Team Trigear - MECHABOP*- another game in development. i actually think 2 Mello has a song that's gonna be used in this game??"
+			]
+	},
+	{
+		"type": "separator"
+	},
+	{
+		"type": "button",
+		"label": "Yap about something else",
+		"action": "/yapzone"
+	}
+	]
+}
