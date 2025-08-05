@@ -33,7 +33,7 @@
 		{
 			"type": "button",
 			"label": "sweetpetal",
-			"action": "/petal"
+			"action": "/sweetpetal"
 		},
 		{
 			"type": "separator"
