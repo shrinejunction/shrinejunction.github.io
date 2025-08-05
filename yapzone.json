@@ -11,6 +11,11 @@
 	},
 	{
 		"type": "button",
+		"label": "Rainglass Wraps",
+		"action": "/rainglasswraps"
+	},
+	{
+		"type": "button",
 		"label": "Jet Set Radio",
 		"action": "/haze"
 	},
@@ -33,4 +38,5 @@
 		"action": "/index"
 	}
 	]
+
 }
