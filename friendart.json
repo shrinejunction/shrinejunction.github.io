@@ -1,0 +1,36 @@
+{
+	"format": "particle",
+	"title": "Museum of Friendship",
+	"content": [
+		{
+			"type": "paragraph",
+			"text": "I have some wonderfully talented friends!\nThis section is dedicated to showcasing some of their wonderful works.",
+			"style": {
+				"text-align": "center"
+			}
+		},
+		{
+			"type": "button",
+			"pre-label": "JuneString's",
+			"label": "JuneZines",
+			"action": "/zines"
+		},
+		{
+			"type": "button",
+			"pre-label": "Pea's",
+			"label": "Art Bakery",
+			"action": "/bakery"
+		},
+		
+		
+		{
+			"type": "separator"
+		},
+		{
+			"type": "button",
+			"pre-label": "Thanks for visitng!",
+			"label": "Museum Exit",
+			"action": "/index"
+		}
+	]
+}
