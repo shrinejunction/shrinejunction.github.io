@@ -51,9 +51,9 @@
 	},
    	{
 		"type": "button",
-		"pre-label": "JuneString's",
-		"label": "JuneZines",
-		"action": "/zines"
+		"pre-label": "A small collection of",
+		"label": "Art by Friends!",
+		"action": "/friendart"
    	},
 	{
 		"type": "button",
