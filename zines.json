@@ -40,8 +40,9 @@
 		},
 		{
 			"type": "button",
-			"label": "Return",
-			"action": "/index"
+			"pre-label": "Return to",
+			"label": "Museum hallway",
+			"action": "/friendart"
 		}
 	]
 }
