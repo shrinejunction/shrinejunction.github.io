@@ -4,7 +4,7 @@
 	"content": [
 		{
 			"type": "paragraph",
-			"text": "I have some wonderfully talented friends!\nThis section is dedicated to showcasing some of their wonderful works.",
+			"text": "I have some wonderfully talented friends!\nThis section is dedicated to showcasing some of their wonderful works, alongside QR codes to see more of their work (in color! :o)",
 			"style": {
 				"text-align": "center"
 			}
@@ -33,4 +33,5 @@
 			"action": "/index"
 		}
 	]
+
 }
