@@ -3,19 +3,25 @@
 	"title": "National Clown Week",
 	"content": [
 		{
-		"type": "paragraph",
-		"text": "*Proclamation 4071, International Clown Week*\nWhoever has heard the laughter of a child or seen sudden delight on the face of a lonely old man has understood in those brief moments mysteries deeper than love.\nAll men are indebted to those who bring such moments of quiet splendor-who redeem sickness and pain with joy. All across America good men in putty noses and baggy trousers following a tradition as old as man’s need to touch gently the lives of his fellowman, go into orphanages and children’s hospitals, homes for the elderly and for the [mentally challenged], and give a part of themselves. Today, as always, clowns and the spirit they represent are as vital to the maintenance of our humanity as the builders and the growers and the governors.\nIn the folklore of the world is the persistent claim that the heart of a clown is sad, and that all the gladness he provokes is simply a facade for the pain he cannot reveal to the world. In the myth is the kernel of reason: the clown leaves happiness where he goes, and takes misery away with him.\nYet we cannot suppose there is real truth in the myth. For surely the laugh-makers are blessed: they heal the heart of the world.\nTo call public attention to the charitable activities of clowns and the wholesome entertainment they provide for all our citizens, the Congress by a joint resolution approved October 8, 1970 (Public Law 91-433), has requested the President to designate the week of August 1 through August 7, 1971, as International Clown Week.\nNOW, THEREFORE, I, RICHARD NIXON, President of the United States of America, do hereby proclaim the week of August 1 through August 7, 1971, as International Clown Week. I invite the Governors of the States and the appropriate officials of other areas under the United States flag to issue similar proclamations.\nI urge the people of the United States recognize the contributions made by clowns in their entertainment at children’s hospitals, charitable institutions, for the mentally challenged, and generally helping to lift the spirits and boost the morale of our people.\nIN WITNESS WHEREOF, I have hereunto set my hand this second day of August, in the year of our Lord nineteen hundred seventy-one, and of the Independence of the United States of America the one hundred ninety-sixth.\nRICHARD NIXON",
-		"style":{
-			"text-align": "center"
-		}
-	},
-	{
-		"type": "separator"
-	},
-	{
-		"type": "button",
-		"label": "Back in the clown car",
-		"action": "/yapzone"
-	}
+			"type": "image",
+			"width": 50,
+			"height": 50,
+			"pixels": "yy mCaAaAaCaMl hCaAaEaCaGaCaAaCi eGaEoAaEaDe cBaEydEaAc cCkEfFiAaAaAb bAaAiJcIjAaAa aCiYiBa bAaAfYCfBaAa cAaAaAbYEcAaCb cBaAaAaAaYaAaCaAaAc eAaCaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaCf hAaCaAaAaAaAaAaAaAaAaAaAaAaCaAi hFaAaEaEaEaAaEh gYKg gYKg gRaRf fRaAaQf fQaAaAaPf fNaAaAaAaAaAaMf fIaAaAaAaAaAaAaAaAaAaAaHf fFaAaAaAaAaAaAaAaAaAaAaAaAaHe fEaAaAaAaAaAaAaAaAaAaAaAaAaAaGe fDaAaAaAaEaAaAaAaEaAaAaFe fEaAaAaGaAaAaGaAaAaEe eEaAaAaIaKaAaAaCaAd dAaCaAaAaEaCaAaAaCaEaAaEe eCaAaAaEaAaCaAaCaAaEaAaCaAd dAaCaAaAaCaAaEaEaAaCaAaAaCaAc eAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaCaAd dAaCaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAaAe eAaAaAaAaAaAaAaAaAaEaAaAaAaAaAaAaCaAd fAaAaAaEaAaIaAaGaAaAaAe gAaAaGaAaIaIaAaAf hAaEaCaAaGaAaCaCaAi hBaGaAaAaGaGaAaAh gBaIaAaGaAaGaCg gCaCaCaAaAaAaAaAaAaCaAaCaBg fCaAaGaAaAaAaAaAaAaEaAaDf fDaAaAaAaCaAaAaAaAaEaAaAaEf eFaAaAaIaGaAaAaAaEe eGaAaAaOaAaAaAaFe eHaAaAaMaAaAaAaGe eIaAaAaAaIaAaAaAaId dIaAaAaAaAaGaAaAaAaJd dLaAaAaAaAaAaAaAaAaAaKd dJbAaAaAaAaAaAaAaAaAcJd dIfAaAaAaAaAaAaAeId eBbBiAaAaAaAaAjCaCd yy"
+			},
+		{
+			"type": "paragraph",
+			"text": "*Proclamation 4071, International Clown Week*\nWhoever has heard the laughter of a child or seen sudden delight on the face of a lonely old man has understood in those brief moments mysteries deeper than love.\nAll men are indebted to those who bring such moments of quiet splendor-who redeem sickness and pain with joy. All across America good men in putty noses and baggy trousers following a tradition as old as man’s need to touch gently the lives of his fellowman, go into orphanages and children’s hospitals, homes for the elderly and for the [mentally challenged], and give a part of themselves. Today, as always, clowns and the spirit they represent are as vital to the maintenance of our humanity as the builders and the growers and the governors.\nIn the folklore of the world is the persistent claim that the heart of a clown is sad, and that all the gladness he provokes is simply a facade for the pain he cannot reveal to the world. In the myth is the kernel of reason: the clown leaves happiness where he goes, and takes misery away with him.\nYet we cannot suppose there is real truth in the myth. For surely the laugh-makers are blessed: they heal the heart of the world.\nTo call public attention to the charitable activities of clowns and the wholesome entertainment they provide for all our citizens, the Congress by a joint resolution approved October 8, 1970 (Public Law 91-433), has requested the President to designate the week of August 1 through August 7, 1971, as International Clown Week.\nNOW, THEREFORE, I, RICHARD NIXON, President of the United States of America, do hereby proclaim the week of August 1 through August 7, 1971, as International Clown Week. I invite the Governors of the States and the appropriate officials of other areas under the United States flag to issue similar proclamations.\nI urge the people of the United States recognize the contributions made by clowns in their entertainment at children’s hospitals, charitable institutions, for the mentally challenged, and generally helping to lift the spirits and boost the morale of our people.\nIN WITNESS WHEREOF, I have hereunto set my hand this second day of August, in the year of our Lord nineteen hundred seventy-one, and of the Independence of the United States of America the one hundred ninety-sixth.\nRICHARD NIXON",
+			"style":{
+				"text-align": "center"
+				}
+			},
+		{
+			"type": "separator"
+			},
+		{
+			"type": "button",
+			"label": "Back in the clown car",
+			"action": "/yapzone"
+			}
 	]
 }
