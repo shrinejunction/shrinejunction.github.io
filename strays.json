@@ -9,11 +9,21 @@
 			"i cant believe 3 years ago was 3 years ago",
 			"im like if a plush was filled with woodchips and a rusty razorblade",
 			"advertising makeup as 'heatwave ready' really sends a bleak and dreadful shiver down my spine",
-			"i wish, i wish, i wish, i wish..."
+			"i wish, i wish, i wish, i wish...",
+			"circling the cage"
 			]
+	},
+		
+	{
+		"type": "separator"
+	},
+	{
+		"type": "button",
+		"label": "left to wander.."
 	}
 	]
 
 }
+
 
 
