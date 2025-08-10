@@ -33,7 +33,7 @@
 		{
 			"type": "button",
 			"label": "Conclude",
-			"action": "\haze"
+			"action": "/haze"
 		}
 	]
 }
