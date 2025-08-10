@@ -1,0 +1,22 @@
+{
+	"format": "particle",
+	"title": "Addendum",
+	"content": [
+		{
+			"type": "paragraph",
+			"text": "seems theres a new youtube video out that explains this phenomenon of a genre!",
+			"style": {
+				"text-align": "center"
+				}
+		},
+		{
+			"type": "image",
+			"width": 41,
+			"height": 41,
+			"pixels": "yp yp yp yp dGaGaCaBaBaGd dAeAaAaDbAaAbDaAeAd dAaCaAbCcAaAdAaAaAaCaAd dAaCaAaAcAaAaAbBaAaAaAaCaAd dAaCaAeAaAbAbBaBaAaCaAd dAeAcAhCbAaAeAd dGaAaAaAaAaAaAaAaAaAaGd lAaAaAdBaAp dAaBaCaCbAbCaAbAaAbAaBd eBaAbBbAhAbAbBaBaAd fAbCbCaAaBbAaBbDaBd eAaAaAaAaBbBaAaCaAaDaAaAe dAbAbBaBaAeAbBbAaCbAd dAcAeCcCfCaCe dBcCcCaBaAbBcAj dBaBbAaFaAbCbCcAf dAaCaDcAaAbBaFaAaAf dBaBcCaAdBbDaAaBaBd dBbGaAbAaAcAdCaBe eBaAbAbAcAaAbBaCaAaAbBd eGaAaBaBbEaAbDaAd dBcAcAaAaAaAbAbAaCcBaAd gAbAaAgBdBfCd eEaBcAcAaBdAbCaAe dAbAbAcAaDdAcEh lEaFaAbAcBaAe dGaAbAaBdBbBaAaAbAe dAeAaAeAaAdDcDe dAaCaAbBbAcAaBbFaAf dAaCaAaAdBcGbAaAbAd dAaCaAaAaBeAaAbBbBbAf dAeAbAaAaAaCaAbAaFbAd dGaDbEaBdAaCf yp yp yp yp",
+			"style": {
+				"scale": 3
+				}
+		}
+	]
+}
