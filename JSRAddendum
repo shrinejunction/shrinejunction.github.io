@@ -17,6 +17,23 @@
 			"style": {
 				"scale": 3
 				}
+		},
+		{
+			"type": "paragraph",
+			"text": "*The Cure to Nonchalant Energy (Grind fiction)\nMayorski*",
+			"style": {
+				"text-align": "center",
+				"margin-top": 10
+				}
+		},
+		
+		{
+			"type": "separator"
+		},
+		{
+			"type": "button",
+			"label": "Conclude",
+			"action": "\haze"
 		}
 	]
 }
