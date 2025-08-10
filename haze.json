@@ -28,6 +28,11 @@
 	},
 	{
 		"type": "button",
+		"label": "Addendum",
+		"action": "/JSRAddendum"
+	},
+	{
+		"type": "button",
 		"label": "Yap about something else",
 		"action": "/yapzone"
 	}
