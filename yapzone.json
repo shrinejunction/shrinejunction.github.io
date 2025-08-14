@@ -10,6 +10,11 @@
 		}
 	},
 	{
+				"type": "button",
+				"label": "The Naked Gun",
+				"action": "/nakedgun"
+				},
+	{
 		"type": "button",
 		"label": "Rainglass Wraps",
 		"action": "/rainglasswraps"
