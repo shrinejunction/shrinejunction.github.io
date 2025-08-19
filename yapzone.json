@@ -10,10 +10,15 @@
 		}
 	},
 	{
-				"type": "button",
-				"label": "The Naked Gun",
-				"action": "/nakedgun"
-				},
+		"type": "button",
+		"label": "boredom",
+		"action": "/boredom"
+	},
+	{
+		"type": "button",
+		"label": "The Naked Gun",
+		"action": "/nakedgun"
+		},
 	{
 		"type": "button",
 		"label": "Rainglass Wraps",
@@ -45,3 +50,4 @@
 	]
 
 }
+
