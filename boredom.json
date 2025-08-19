@@ -1,0 +1,18 @@
+{
+	"format": "particle",
+	"title": "8/19/25 Boredom",
+	"content": [
+		{
+			"type": "paragraph",
+			"text": "i've been feeling utterly bored lately. at my absolute lowest in a fair while (actually not that long. maybe just a few weeks. it's pretty  frequent.) and i dunno.. i'm hoping i can keep some sort of passion for maintaining this site. being shuffled up to the top of the directory's a lotta self-imposed pressure! i'm kinda forcing myself to write this just as a way to combat the boredom and drag my way through making something. it doesn't really feel the greatest. alas, i must Blog through this.\ni ive also been forcing myself to slowly paint these lil 3d printed 'TY' beanie baby tags. just kinda one small layer at a time. they're kinda coming out really messy. and i've been intimidated by the next step of Writing An Actual Letter to mail them with. it's an important task, though. i must Create and Write. it'ss important, i think. somehow.\ni've been really aimless too. i think that's the real issue, not boredom, it's just that i haven't found any direction to look in search of a purpose, ykno? let alone the two layers below it on the heirarchy of needs.. who knows. maybe if i blog hard enough, i'll get somewhere."
+		},
+		{
+			"type": "separator"
+		},
+		{
+			"type": "button",
+			"label": "Yap again soon",
+			"action": "/yapzone"
+		}
+	]
+}
